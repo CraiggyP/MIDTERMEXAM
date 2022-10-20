@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">midterm exam</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button">Button</string>
+    <string name="username">username</string>
+    <string name="save_username">Save Username</string>
+    <string name="usernamee">Username</string>
+    <string name="edit_username">Edit username</string>
+    <string name="textview">TextView</string>
+</resources>
